@@ -1,0 +1,76 @@
+.inlineBlock{
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+}
+a{ 
+    color: rgb(126, 121, 121);
+    font-style: normal;
+    text-decoration: none;
+}
+
+li:hover{
+color: aliceblue;
+background-color: aliceblue;
+
+}
+.logo{
+    display: flex;
+    align-items: flex-start;
+    align-content: space-between;
+    width: 89%;
+    padding: 1%;
+    gap: 600px;
+}
+nav{
+    width: 100%;
+    padding: 1%;
+}
+ul{
+    width: 80%;
+    margin-right: 100%;
+}
+h1{
+   font-family: IMB plex serif;
+   font-size: 48px;
+}
+p{
+    font-family: 'IMB plex,serif';
+   font-size: 20;
+}
+.heroSC{
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+   .topline{
+    display: flex;
+    align-items: center;
+   }
+   p{
+    display: contents;
+    align-items: flex-end;
+   }
+   .footer {
+    background-color: black;
+    height: 500px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    line-height: 8px;
+    margin-top: 15%;
+    
+   }
+    .logo{
+        display: flexbox;
+        margin-bottom: 10%;
+        align-items: flex-start;
+        justify-content: space-around;
+        width: auto;
+        margin-top: 23px;
+    }
+    
